@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unreal Engine and C++
+- 🌱 I’m currently working on Unreal Engine projects
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me -> andreybond611@gmail.com
 
